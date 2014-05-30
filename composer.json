@@ -1,8 +1,8 @@
 {
 	"name": "meerkat/meerkat",
 	"description": "The Meerkat CMF",
-	"keywords": ["cmf", "meerkat"],
 	"license":     "BSD-3-Clause",
+	"keywords": ["cmf", "meerkat"],
 	"require": {
 			"php": ">=5.3",
 			"composer/installers": "*",
